@@ -35,7 +35,7 @@
       "tensorPath": "oss_data/bnmt_enjako_interlingua_10k_1024_tensors.bytes",
       "metadataPath": "oss_data/bnmt_enjako_interlingua_10k_1024_metadata.tsv",
       "bookmarksPath": "oss_data/bnmt_enjako_interlingua_10k_1024_bookmarks.txt"
-    }
+    },
     {
       "tensorName": "Cats Vs Dogs",
       "tensorShape": [100, 512],
@@ -45,7 +45,7 @@
         "imagePath": "oss_data/sprite.png",
         "singleImageDim": [100, 100]
       }
-    },
+    }
   ],
   "modelCheckpointPath": "Demo datasets"
 }
