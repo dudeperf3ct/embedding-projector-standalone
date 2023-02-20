@@ -63,7 +63,7 @@
       "tensorPath": "oss_data/tensor.bytes",
       "metadataPath": "oss_data/labels.tsv",
       "sprite": {
-        "imagePath": "oss_data/sprite.png",
+        "imagePath": "oss_data/sprites.png",
         "singleImageDim": [
           100,
           100
