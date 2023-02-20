@@ -76,7 +76,7 @@
         500,
         768
       ],
-      "tensorPath": "oss_data/embedding.ckpt",
+      "tensorPath": "oss_data/nft_bytes.bytes",
       "metadataPath": "oss_data/metadata.tsv",
       "sprite": {
         "imagePath": "oss_data/sprites_nft.png",
