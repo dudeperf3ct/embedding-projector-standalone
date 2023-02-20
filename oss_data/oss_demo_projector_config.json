@@ -81,8 +81,8 @@
       "sprite": {
         "imagePath": "oss_data/sprites_nft.png",
         "singleImageDim": [
-          21,
-          21
+          64,
+          64
         ]
       }
     }
